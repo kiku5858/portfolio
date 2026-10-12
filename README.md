@@ -1,5 +1,26 @@
 # Kiran Kumari - Portfolio (React + Vite)
 
+A fully responsive personal portfolio website showcasing my projects, skills and certificates.
+
+🔗 **Live Demo:** https://TUMHARA-LIVE-LINK
+
+![Portfolio Preview](screenshots/home.png)
+
+## Tech Stack
+- React.js
+- Vite
+- JavaScript, CSS3, HTML5
+
+## Features
+- Fully responsive (laptop + mobile)
+- About, Skills, Projects and Certificates sections
+- Contact section
+
+## Projects Featured
+- AI Interview Preparation Platform
+- Kivon Luxe E-commerce Website
+- Weather Forecast Application
+
 ## Run locally
 ```bash
 npm install
@@ -10,22 +31,8 @@ npm run dev
 ```bash
 npm run build
 ```
-Upload the `dist` folder to Netlify (drag and drop), or connect the GitHub repo
-with build command `npm run build` and publish directory `dist`.
+Upload the `dist` folder to Netlify (drag and drop), or connect the GitHub repo with build command `npm run build` and publish directory `dist`.
 
-## Edit your content
-All text lives in `src/data.js`: your details, skills, projects, journey.
-Add your live and GitHub links for each project there. Colors are in `src/index.css` (`:root`).
-
-## Change your photo
-Replace `src/assets/profile.jpg` with a new square photo (keep the same file name).
-
-## Project structure
-```
-src/
-  data.js        all content: profile, skills, projects, certificates, journey
-  index.css      theme colors (:root) and all styles
-  assets/        profile photo
-  hooks/         useTheme (light/dark), useTypewriter (hero demo)
-  components/    one file per section, plus Reveal (scroll animation)
-```
+## Contact
+- LinkedIn: https://linkedin.com/in/kirankumari-dev
+- Email: kirankumari20850@gmail.com
