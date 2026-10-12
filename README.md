@@ -2,8 +2,7 @@
 
 A fully responsive personal portfolio website showcasing my projects, skills and certificates.
 
-🔗 **Live Demo:** kiran-kumari-portfolio.netlify.app
-
+🔗 **Live Demo:** https://kiran-kumari-portfolio.netlify.app
 ![Home](src/screenshots/home.jpg)
 
 ## Tech Stack
