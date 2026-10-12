@@ -2,7 +2,7 @@
 
 A fully responsive personal portfolio website showcasing my projects, skills and certificates.
 
-🔗 **Live Demo:** https://TUMHARA-LIVE-LINK
+🔗 **Live Demo:** kiran-kumari-portfolio.netlify.app
 
 ![Home](src/screenshots/home.jpg)
 

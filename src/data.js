@@ -5,7 +5,6 @@ export const profile = {
   role: "React.js Frontend Developer",
   location: "Jamshedpur, India",
   email: "Kirankumari20850@gmail.com",
-  phone: "+91 8092723900",
   linkedin: "https://linkedin.com/in/kirankumari-dev",
   github: "https://github.com/kiku5858",
   about: [
@@ -77,7 +76,7 @@ export const projects = [
       "Live on Netlify.",
     ],
     tech: ["React.js", "Netlify"],
-    live: "",
+    live: "kiran-kumari-portfolio.netlify.app",
     github: "https://github.com/kiku5858",
   },
 ];
